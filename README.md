@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ian Felix 👨‍💻</h1>
+
+<h3 align="center"<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">Welcome to my profile!&nbsp;<img  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h3>
+
 <h3 align="center">My focus is to be a Full Stack developer</h3>
 
-### <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">Welcome to my profile!&nbsp;<img  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
-
- - <li>🚀 A beginner <b>Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"</li>
+- 👨‍💻 A beginner **Web Developer** 🚀
+ 
 - 🌱 I’m currently learning **React, Nodejs and React Native**
 
 - 📫 How to reach me **ianfelix030@gmail.com**
