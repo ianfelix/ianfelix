@@ -6,7 +6,7 @@
 
 - 👨‍💻 A beginner **Web Developer** 🚀
  
-- 🌱 I’m currently learning **React, Nodejs and React Native**
+- 🌱 I’m currently learning **React, TypeScript and React Native**
 
 - 📫 How to reach me **ianfelix030@gmail.com**
 
