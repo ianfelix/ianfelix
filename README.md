@@ -4,7 +4,7 @@
 
 <h3 align="center">My focus is to be a Full Stack developer</h3>
 
-- 👨‍💻 A beginner **Web Developer** 🚀
+- 👨‍💻 Web and mobile development enthusiast 🚀
  
 - 🌱 I’m currently learning **React, TypeScript and React Native**
 
