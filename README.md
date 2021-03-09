@@ -1,8 +1,10 @@
 <p align="center">
- <img src='https://user-images.githubusercontent.com/62842327/107679279-22780400-6c7b-11eb-8184-2b730aaa0661.gif' width="800" height="350" />
+ <img src='https://user-images.githubusercontent.com/62842327/107679279-22780400-6c7b-11eb-8184-2b730aaa0661.gif' width="800" height="400" />
 </p>
 
-<h3 align="center"<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">Welcome to my profile!&nbsp;<img  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h3>
+## My technologies:
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js%20-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianfelix&show_icons=true&theme=radical" alt="GitHub Stats Card" />
