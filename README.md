@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js%20-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 
 <p align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
+ <a href="https://github.com/ianfelix?tab=repositories">
   <img 
   align="center" 
   height=165 
@@ -17,7 +17,7 @@
   />
  </a>
  &nbsp;
- <a href="https://github.com/anuraghazra/convoychat">
+ <a href="https://github.com/ianfelix?tab=repositories">
   <img 
   align="center" 
   height=165 
