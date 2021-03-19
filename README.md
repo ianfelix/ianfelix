@@ -9,9 +9,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianfelix&show_icons=true&theme=radical" alt="GitHub Stats Card" />
+<img align="center" height=165 src="https://github-readme-stats.vercel.app/api?username=ianfelix&show_icons=true&theme=radical" alt="GitHub Stats Card" />
 </a>
 
+
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" alt="Compact Language Card Layout" />
+<img align="center" height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" alt="Compact Language Card Layout" />
 </a>
