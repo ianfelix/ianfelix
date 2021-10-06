@@ -6,7 +6,7 @@
   <img
     align="right"
     src="https://api.daily.dev/devcards/78f2267b3ee74137a4116b160cfad5c1.png?r=7ch"
-    width="290"
+    width="280"
     alt="Ian Felix's Dev Card"
 /></a>
 
