@@ -42,7 +42,7 @@
 <a href="https://github.com/ianfelix?tab=repositories" target="_blank">
   <img
     align="center"
-    height="140"
+    height="130"
     src="https://github-readme-stats.vercel.app/api?username=ianfelix&show_icons=true&theme=radical"
     alt="GitHub Stats Card"
   />
@@ -50,7 +50,7 @@
 <a href="https://github.com/ianfelix?tab=repositories" target="_blank">
   <img
     align="center"
-    height="140"
+    height="130"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical"
     alt="Compact Language Card Layout"
   />
