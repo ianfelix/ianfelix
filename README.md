@@ -1,54 +1,59 @@
-# Hi there 👋
+<h3 align="left">Hi 👋! My name is Ian Felix I'm a  Front-end developer, from Brazil 🇧🇷</h3>
 
-## I am Ian Felix
+###
 
-<a target="_blank" href="https://app.daily.dev/ianfelix">
-  <img
-    align="right"
-    src="https://api.daily.dev/devcards/78f2267b3ee74137a4116b160cfad5c1.png?r=7ch"
-    width="280"
-    alt="Ian Felix's Dev Card"
-/></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ianfelix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianfelix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- Front-end Developer
+###
 
-## My technologies:
+<img align="right" height="280" src="https://api.daily.dev/devcards/78f2267b3ee74137a4116b160cfad5c1.png?r=7ch"  />
 
-<img
-  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
-/>
-<img
-  src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"
-/>
-<img
-  src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"
-/>
-<img
-  src="https://img.shields.io/badge/Next.js%20-000000?style=for-the-badge&logo=next.js&logoColor=white"
-/>
+###
 
-<a href="https://github.com/ianfelix?tab=repositories" target="_blank">
-  <img
-    align="center"
-    height="130"
-    src="https://github-readme-stats.vercel.app/api?username=ianfelix&show_icons=true&theme=radical"
-    alt="GitHub Stats Card"
-  />
-</a>
-<a href="https://github.com/ianfelix?tab=repositories" target="_blank">
-  <img
-    align="center"
-    height="130"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical"
-    alt="Compact Language Card Layout"
-  />
-</a>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ian-felix/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.twitch.tv/ianf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
+  </a>
+  <a href="https://dev.to/ianfelix" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="devto logo"  />
+  </a>
+  <a href="https://medium.com/@ianfelix" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="medium logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ianfelix&theme=radical" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ianfelix/ianfelix/output/snake.svg" alt="Snake animation" />
+
+###
