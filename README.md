@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Ian Felix, I'm a Front-end developer, from Brazil 🇧🇷</h3>
+<h3 align="left">Hi 👋! My name is Ian Felix I'm a  Front-end developer, from Brazil 🇧🇷</h3>
 
 ###
 
