@@ -3,8 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ianfelix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianfelix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+
+  [![ianfelix](https://github-readme-stats.vercel.app/api?username=ianfelix&count_private=true&show_icons=true&contribs,prs&cache_seconds=86400&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![ianfelix](https://github-readme-stats.vercel.app/api/top-langs/?username=ianfelix&layout=compact&theme=midnight-purple) ](https://github.com/anuraghazra/github-readme-stats) 
 </div>
 
 ###
