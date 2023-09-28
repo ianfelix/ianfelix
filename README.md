@@ -1,16 +1,23 @@
-<h3 align="left">Hi 👋! My name is Ian Felix I'm a  Front-end developer, from Brazil 🇧🇷</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<div align="center">
-
-  [![ianfelix](https://github-readme-stats.vercel.app/api?username=ianfelix&count_private=true&show_icons=true&contribs,prs&cache_seconds=86400&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![ianfelix](https://github-readme-stats.vercel.app/api/top-langs/?username=ianfelix&layout=compact&theme=midnight-purple) ](https://github.com/anuraghazra/github-readme-stats) 
-</div>
+<p align="left">My name is Ian Felix and I'm a Front-end Developer, from Brazil 🇧🇷</p>
 
 ###
+
+<h2 align="left">About me</h2>
+
 
 <img align="right" height="280" src="https://api.daily.dev/devcards/78f2267b3ee74137a4116b160cfad5c1.png?r=7ch"  />
+
+###
+
+<p align="left">- 🔭 I’m working as a Middle Front-end Developer<br>- 📚 I'm currently learning the Javascript ecosystem <br>- ⚡ In my free time I like to play the violin and some games</p>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
