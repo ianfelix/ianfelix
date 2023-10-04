@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Middle Front-end Developer<br>- 📚 I'm currently learning the Javascript ecosystem <br>- ⚡ In my free time I like to play the violin and some games</p>
+<p align="left">- 🔭 I’m working as a Middle Front-end Developer<br>- 📚 I'm currently learning the Javascript ecosystem <br>- ⚡ In my free time I like to play the violin and play some games</p>
 
 ###
 
