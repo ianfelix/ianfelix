@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/ian-felix/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://www.twitch.tv/ianf" target="_blank">
+  <a href="https://www.twitch.tv/ianfelixdev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
   </a>
   <a href="https://dev.to/ianfelix" target="_blank">
@@ -54,10 +54,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ianfelix&theme=radical" alt="Layout with last medium posts"  />
-</div>
