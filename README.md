@@ -8,8 +8,7 @@
 
 <h2 align="left">About me</h2>
 
-
-<img align="right" height="380" src="https://api.daily.dev/devcards/78f2267b3ee74137a4116b160cfad5c1.png?r=7ch"  />
+<a href="https://app.daily.dev/ianfelix"><img align="right" src="https://api.daily.dev/devcards/v2/jaMKCvbbD.png?type=default&r=v3q" width="300" alt="Ian Felix's Dev Card"/></a>
 
 ###
 
