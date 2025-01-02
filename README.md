@@ -10,7 +10,7 @@
 
 <a href="https://app.daily.dev/ianfelix"><img src="https://api.daily.dev/devcards/v2/jaMKCvbbD.png?type=default&r=qnr" align="right" width="300" alt="Ian Felix's Dev Card"/></a>
 
-<p align="left">- 🔭 I’m working as a Middle Front-end Developer<br>- 📚 I'm currently learning the Javascript ecosystem <br>- ⚡ In my free time I like to play the violin and play some games</p>
+<p align="left">- 🔭 I’m working as a Senior Front-end Developer<br>- 📚 I'm currently learning the Javascript ecosystem <br>- ⚡ In my free time I like to play the violin and play some games</p>
 
 <h2 align="left">I code with</h2>
 
